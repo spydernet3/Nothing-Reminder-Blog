@@ -1,2 +1,2 @@
 # Nothing-Reminder-Blog
-Nothing Reminder Update Blog 
+Check out the App here : [Nothing Reminder](https://spydernet3.github.io/Nothing-Reminder)
