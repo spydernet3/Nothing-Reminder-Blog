@@ -6,7 +6,9 @@
 ---
 
 ## 🚀 New Release Explore
+
 - 📄 Export As PDF Feature for Budget Tracker
+
 ---
 
 ## 🤝 Contribute or Donate
