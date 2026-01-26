@@ -6,10 +6,7 @@
 ---
 
 ## 🚀 New Release Explore
-- 🐞 **Fixed Known Bugs**
-- ⚡ **Made Improvement in Price Tracker**
-- 🛡️ **Stable Version**
-
+- 📄 Export As PDF Feature for Budget Tracker
 ---
 
 ## 🤝 Contribute or Donate
