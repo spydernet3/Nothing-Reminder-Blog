@@ -1,4 +1,4 @@
-> One App Is = 18 Apps 🔥 | Nothing Reminder |
+> One App Is = 20 Apps 🔥 | Nothing Reminder |
 <p align="center">
   <img src="https://spydernet3.github.io/Nothing-Reminder/assets/icon.png" width="100" alt="Logo">
 </p>
@@ -7,9 +7,9 @@
 
 ## 🚀 Happy To Publish
 
-- Web Push Notification Implemented
-- Gold Fetching Issue will be Resolved ASAP
-- Performance Enhancement
+- 50 year's Calender feature added
+- Fixed some known bugs
+- Home screen by default shows reminders overview now.
 
 ---
 
