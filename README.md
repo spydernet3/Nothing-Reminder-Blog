@@ -7,10 +7,11 @@
 
 ## 🚀 Happy To Publish
 
-- 50 year's Calender feature added
-- Fixed some known bugs
-- Home screen by default shows reminders overview now.
-
+- Gold fetch issue resolved
+- User's Can turn On/off Gold rate notifications
+- Opened /closed checklists has seperate dividers
+- Update log supports dark mode (don't fear about logo 😜 )
+- Performance Enhancement and version upgrade.
 ---
 
 ## Note
