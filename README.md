@@ -8,7 +8,7 @@
 ## 🚀 Happy To Publish
 
 - Gold fetch issue resolved
-- User's Can turn On/off Gold rate notifications
+- User's Can turn On/off Gold rate notifications(works while app active, 30 mins once)
 - Opened /closed checklists has seperate dividers
 - Update log supports dark mode (don't fear about logo 😜 )
 - Performance Enhancement and version upgrade.
@@ -31,4 +31,4 @@ We appreciate your support! Reach out through any of these channels:
 * 📧 [**Mail**](mailto:mersalmgblog@gmail.com) | ✈️ [**Telegram**](https://telegram.me/gplat_bot) | 🖥 [**GitHub**](https://github.com/spydernet3)
 
 ---
-Built with ❤️ SpyderNet. Updated 12 May 2026
+Built with ❤️ SpyderNet. Updated 25 Oct 2026
