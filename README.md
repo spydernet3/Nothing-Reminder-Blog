@@ -8,18 +8,7 @@
  
 ## 🚀 Happy To Publish
  
-- Gold fetch issue resolved
-- User's Can turn On/off Gold rate notifications (works while app active, 30 mins once)
-- Opened /closed checklists has seperate dividers
-- **🎯 Priority Queue Feature** - Organize tasks by date with auto-rollover
-  - Create priority items for any date
-  - Unchecked items automatically carry to next day
-  - Old items marked with "Old · date" label and appear faded
-  - View completion status: X/Y completed
-  - Home widget shows all dates with pending tasks
-  - Push notifications for daily priorities
-- Update log supports dark mode (don't fear about logo 😜)
-- Performance Enhancement and version upgrade.
+- Now you can import and export user saved data.
 ---
   
 ## Note
