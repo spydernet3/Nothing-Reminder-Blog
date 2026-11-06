@@ -21,34 +21,13 @@
 - Update log supports dark mode (don't fear about logo 😜)
 - Performance Enhancement and version upgrade.
 ---
- 
-## ✨ Priority Queue Features
- 
-**🎯 Smart Task Management**
-- Pick any date and add priority items
-- Tasks automatically roll over to next day if not completed
-- Visual distinction: old items appear faded with date label
-- Track completion: Shows "2/3 completed" format
-**📊 Multiple Views**
-- **Home Widget:** See all dates with pending tasks at a glance
-- **Priority Page:** Full list with all dates, pending counts, and controls
-- **Auto-Rollover:** Unchecked items move to next day at midnight
-**⚙️ Full Control**
-- ✏️ Edit task text anytime
-- ☑️ Check off when completed
-- 🗑️ Delete to trash when needed
-- 🔔 Get notifications for daily priorities
----
- 
+  
 ## Note
  
 > If you have facing Notification issue try this troubleshoot Steps:
  
-- Rest Site Permission Don't select Clear Site Data for avoiding Data losses
-- Refresh the Page Notification pop-up will Appear Or Navitage to Notifications Settings Then Select Request Permission Then Allow
-- If You Receiving This Site Has Been Updated In The Background Notification...
-- Open App Wait 10 Sec for Data Syncing for Notification Then Press This Site Has been Notification Then clear All Notification and Close App
-- Now You'll all Fine
+- Turn off all enabled notifications, then turn them back on and refresh the app. Now everything is working fine.
+- Happy Diwali To All 🎉🌹 
 ---
  
 ## 🤝 Contribute or Donate
