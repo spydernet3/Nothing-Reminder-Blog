@@ -1,4 +1,4 @@
-## One App Is = 20 Apps 🔥 | Nothing Reminder
+## One App Is = 21 Apps 🔥 | Nothing Reminder
  
 <p align="center">
   <img src="https://spydernet3.github.io/Nothing-Reminder/assets/icon.png" width="100" alt="Logo">
@@ -9,6 +9,10 @@
 ## 🚀 Happy To Publish
  
 - Now you can import and export user saved data.
+- New fresh UI
+- performance enhancement
+- price tracker support Flipkart products
+- responsive design and handy selection menu.
 ---
   
 ## Note
@@ -22,7 +26,7 @@
 ## 🤝 Contribute or Donate
  
 We appreciate your support! Reach out through any of these channels:
-* 📧 [**Mail**](mailto:mersalmgblog@gmail.com) | ✈️ [**Telegram**](https://telegram.me/gplat_bot) | 🖥 [**GitHub**](https://github.com/spydernet3)
+- 📧 [**Mail**](mailto:mersalmgblog@gmail.com) | ✈️ [**Telegram**](https://telegram.me/gplat_bot) | 🖥 [**GitHub**](https://github.com/spydernet3)
 ---
  
-Built with ❤️ SpyderNet. Updated 28 Oct 2026
+Built with ❤️ SpyderNet. Updated 07 Nov 2026
