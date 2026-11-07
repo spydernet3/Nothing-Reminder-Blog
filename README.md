@@ -1,4 +1,4 @@
-## One App Is = 21 Apps 🔥 | Nothing Reminder
+## One App Is = 25 Apps 🔥 | Nothing Reminder
  
 <p align="center">
   <img src="https://spydernet3.github.io/Nothing-Reminder/assets/icon.png" width="100" alt="Logo">
