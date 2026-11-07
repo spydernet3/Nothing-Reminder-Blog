@@ -13,6 +13,15 @@
 - performance enhancement
 - price tracker support Flipkart products
 - responsive design and handy selection menu.
+- Flipkart and Amazon products tracking
+- new calories tracker feature
+- new insert table option in notes
+- new piggy bank option
+- last backup date option 
+- performance enhancement
+
+## How to use
+- visit how to use page for instructions 
 ---
   
 ## Note
