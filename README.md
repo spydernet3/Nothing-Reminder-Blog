@@ -17,7 +17,8 @@
 - new calories tracker feature
 - new insert table option in notes
 - new piggy bank option
-- last backup date option 
+- last backup date option
+- new calories burn feature 
 - performance enhancement
 
 ## How to use
