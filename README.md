@@ -20,6 +20,9 @@
 - last backup date option
 - new calories burn feature 
 - performance enhancement
+- Home screen has New look
+- New Preserve last changes settings
+- New default Page set settings
 
 ## How to use
 - visit how to use page for instructions 
@@ -39,4 +42,4 @@ We appreciate your support! Reach out through any of these channels:
 - 📧 [**Mail**](mailto:mersalmgblog@gmail.com) | ✈️ [**Telegram**](https://telegram.me/gplat_bot) | 🖥 [**GitHub**](https://github.com/spydernet3)
 ---
  
-Built with ❤️ SpyderNet. Updated 07 Nov 2026
+Built with ❤️ SpyderNet. Updated 08 Nov 2026
